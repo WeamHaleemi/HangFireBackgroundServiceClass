@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dLBxswjJnIIWW/7i/LYiHfsZwPZQlaHAPizMELOJODc=",
+  "Source": "HangFireBackgroundServiceClass",
+  "BasePath": "_content/HangFireBackgroundServiceClass",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
